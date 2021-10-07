@@ -1,5 +1,5 @@
 {
-  "$schema": "https://dev.api.hrm.htec.co.rs/api/Employments/positions",
+  "$schema": "http://json-schema.org/draft-04/schema#",
   "type": "object",
   "currentPage": {
       "type": "integer"
